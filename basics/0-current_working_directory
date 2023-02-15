@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd $ print_to= stdout >> pwd 0-current_working_directory
+pwd $ print_to= stdout=0-current_working_directory
