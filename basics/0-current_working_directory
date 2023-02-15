@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd $ print_to= script_output=$(./0-current_working_directory)
+pwd $ print_to= stdout >> pwd 0-current_working_directory
