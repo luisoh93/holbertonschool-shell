@@ -1,0 +1,1 @@
+My script prints the absolute path name of the current working directory,and display it, write changes to the user's home directory, display contents in a long format, with also display the current directory with hidden files.

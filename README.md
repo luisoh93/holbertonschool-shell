@@ -1,0 +1,1 @@
+This repository is my practice to know all the shell basics comands
