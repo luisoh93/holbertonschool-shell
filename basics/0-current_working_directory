@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd $ print_to= output
+pwd - out $ print_to= 
