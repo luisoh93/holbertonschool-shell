@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $username_here
+sudo su whoami
