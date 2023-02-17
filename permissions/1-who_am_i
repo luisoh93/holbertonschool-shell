@@ -1,2 +1,2 @@
 #!/bin/bash
-kdesu $su
+read $su
